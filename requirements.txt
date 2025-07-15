@@ -1,0 +1,5 @@
+pipandas
+numpy
+matplotlib
+seaborn
+plotly
